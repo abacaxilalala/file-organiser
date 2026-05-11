@@ -168,5 +168,5 @@ All 18 tests use temporary directories and clean up after themselves.
 
 ## Author
 
-**Daniel Dobos** — Python developer based in Seville, Spain.  
-Available for freelance automation, data processing, and scripting projects.
+**Daniel Dobos** — Python student based in Seville, Spain.  
+Open to entry-level freelance projects in data cleaning, web scraping, and automation.
